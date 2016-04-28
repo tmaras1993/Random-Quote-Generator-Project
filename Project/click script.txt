@@ -1,0 +1,1 @@
+document.getElementById('loadQuote').addEventListener("click", printQuote, false);
